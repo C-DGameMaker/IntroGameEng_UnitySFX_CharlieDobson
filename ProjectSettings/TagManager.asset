@@ -8,6 +8,8 @@ TagManager:
   - OFF
   - SOUND EFFECT2
   - SOUND EFFECT
+  - sound1
+  - sound2
   layers:
   - Default
   - TransparentFX
